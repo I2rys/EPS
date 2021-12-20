@@ -1,0 +1,20 @@
+{
+  "name": "eps",
+  "version": "1.0.0",
+  "description": "Usernames/emails & passwords splitter.",
+  "main": "index.js",
+  "keywords": [
+    "i2rys",
+    "eps",
+    "emailpass-splitter",
+    "emailpass-split",
+    "emails-passwords-splitter"
+  ],
+  "repository": "https://github.com/I2rys/EPS",
+  "author": {
+    "name": "I2rys",
+    "email": "i2rys@protonmail.com",
+    "website": "https://i2rys.xyz"
+  },
+  "license": "MIT"
+}
